@@ -1,0 +1,2 @@
+pub const GLOBAL_SPRITE_SCALE: f32 = 1.0;
+pub const GLOBAL_COLLIDER_SCALE: f32 = 1.0;
